@@ -5,11 +5,6 @@
 # DB
 dev.db
 
-# markdown files
-note.md
-development-order.md
-create.md
-
 # ---- Python 基本 ----
 __pycache__/
 *.py[cod]
