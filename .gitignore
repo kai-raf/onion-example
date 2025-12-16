@@ -1,0 +1,41 @@
+# env
+.env
+.env.*
+
+# DB
+dev.db
+
+# markdown files
+note.md
+development-order.md
+create.md
+
+# ---- Python 基本 ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ---- エディタ・OS ----
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# ---- テスト関連 ----
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.tox/
+
+# ---- ログ・一時ファイル ----
+*.log
+*.tmp
+
+# ---- DB（ローカル開発用 SQLite）----
+dev.db
+*.sqlite3
+
